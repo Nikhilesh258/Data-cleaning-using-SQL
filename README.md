@@ -14,19 +14,7 @@ Enhance the accuracy and consistency of the data
 Transform the data into a format suitable for further analysis and visualization
 ## Dataset
 
-The dataset used in this project is [name of dataset]. It contains [description of dataset content].
-
-## Database
-
-The SQL database system used for this project is [name of database system].
-
-## Files
-
-sql_cleaning_script.sql: Contains the SQL code for data cleaning and transformation tasks.
-[name of raw data file(s)]: The original, uncleaned dataset(s).
-[name of cleaned data file(s)]: The cleaned and transformed dataset(s), ready for analysis.
-README.md: This file (provides overview and instructions).
-## Key Steps
+The dataset used in this project is Nashville Housing Data.
 
 **Data Exploration:**
 Examine the structure and content of the dataset to understand its characteristics and identify potential issues.
