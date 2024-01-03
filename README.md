@@ -43,19 +43,3 @@ Use descriptive statistics, visualizations, and SQL queries to visualize data di
 **Standardize data formats:** Ensure consistency in data types, date formats, and units of measurement.
 **Create new features:** Derive additional variables or aggregate data as needed for analysis.
 **Normalize or scale data:** Adjust values to a common scale for certain statistical analyses.
-
-## Instructions
-
-Set up the database environment:
-Install the necessary database system and configure it appropriately.
-Load the raw data into the database:
-Use appropriate methods to import the dataset into the database tables.
-Run the SQL cleaning script:
-Execute the sql_cleaning_script.sql file to perform the cleaning and transformation tasks.
-Access the cleaned data:
-Query the database to retrieve the cleaned dataset for further analysis or visualization.
-## Additional Information
-
-[Link to dataset source]
-[Link to cleaning script documentation]
-[Contact information for questions or feedback]
