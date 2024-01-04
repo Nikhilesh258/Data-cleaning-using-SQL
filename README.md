@@ -7,7 +7,7 @@ This repository contains the code, data, and documentation for a project that in
 
 ## Goals
 
-The primary goals of this project are to:
+**The primary goals of this project are to:**
 
 Identify and address data quality issues within the dataset
 Enhance the accuracy and consistency of the data
